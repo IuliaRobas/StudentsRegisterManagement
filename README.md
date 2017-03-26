@@ -2,7 +2,9 @@
 A faculty stores information about:
 
 Student: studentID, name
+
 Discipline: disciplineID, name
+
 Grade: disciplineID, studentID, gradeID
 
 The application allows to:
