@@ -1,8 +1,8 @@
 
 A faculty stores information about:
- Student: <studentID>, <name>.
- Discipline: <disciplineID>, <name>.
- Grade: <disciplineID>, <studentID>, <grade_value>.
+Student: studentID, name
+Discipline: disciplineID, name
+Grade: disciplineID, studentID, gradeID
 
 The application allows to:
 1. Manage the list of students and available disciplines. The application must allow the user to
